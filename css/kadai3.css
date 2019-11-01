@@ -1,0 +1,21 @@
+h1{
+    color: darkorange;
+    text-align: center;
+    background-color: bisque;
+}
+body{
+    background-image: url("../images/02.jpg");
+    background-attachment: fixed;
+   
+}
+h2{
+    color: darkorange;
+    text-align: center;
+    background-color:antiquewhite;
+}
+h3{
+    color: lightgoldenrodyellow;
+}
+P{
+    color: aliceblue;
+}
