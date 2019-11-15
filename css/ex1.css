@@ -1,0 +1,27 @@
+h1{
+    color:blueviolet;
+    font-family: "impact";
+    text-align: center; 
+    background-color: yellow;
+}
+h2{
+    background-color: green;
+    text-align: center;
+    
+}
+table{
+    background-color: yellow;
+    
+}
+
+ol{
+    background-color: azure;
+    
+}
+
+body{
+    background-image: url("../images/02.jpg");           
+}
+address{
+    color: white;
+}

@@ -1,11 +1,17 @@
 h1{
-    color: red;
+    color:blueviolet;
     font-family: "impact";
-    text-align: center;    
+    text-align: center; 
+    background-color: yellow;
 }
 
 p{
     font-size: 25px;
     font-weight: bold;
+}
+
+body{
+    background-image: url("../images/02.jpg")
+        
    
 }
