@@ -17,6 +17,9 @@ div.gazoubig{
     width: 1000px;
     height: 200px;
     margin-bottom: 20px; 
+    font-size: 25px;
+    text-align: center;
+    
    
 }
 div.body1{
@@ -25,12 +28,22 @@ div.body1{
     height: 200px;
     background-color:antiquewhite; 
     margin-bottom: 20px;
+    
 }
-
+div.setumei1{
+    vertical-align: top;
+    display:inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+    
+}
 div.gazou1{
     vertical-align: top;
     display: inline-block;
-    width: 700px;
+    width: 400px;
     height: 200px;
     background-color: antiquewhite;
 }
@@ -40,11 +53,8 @@ div.bunnsyou1{
     width: 300px;
     height: 200px;
     background-color:beige;
-    font-size: 25px;
-    text-align: left;
-    font-family: 'yu Gothic';
-    font-weight: bold;
-    
+    font-size: 20px;
+    text-align: center;
 }
 div.body2{
     font-size: 0;
@@ -53,22 +63,35 @@ div.body2{
     background-color:beige; 
     margin-bottom: 20px;
 }
-div.gazou2{
-    vertical-align: top;
-    display:inline-block;
-    width: 700px;
-    height: 200px;
-    background-color:beige;
-    font-size: 20px;
-    font-family: 'yu Gothic';
-}
-div.bunnsyou2{
+div.setumei2{
     vertical-align: top;
     display:inline-block;
     width: 300px;
     height: 200px;
-    background-color: aquamarine;
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+    
+    
 }
+div.gazou2{
+    vertical-align: top;
+    display:inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+    
+}
+div.bunnsyou2{
+    vertical-align: top;
+    display:inline-block;
+    width: 400px;
+    height: 200px;
+    background-color: azure;
+}
+
 div.page{
     font-size: 0;
      width: 1000px;
@@ -114,4 +137,5 @@ div.futter{
     height: 100px;
     background-color:azure;
 }
+
 
