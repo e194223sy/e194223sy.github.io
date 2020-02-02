@@ -1,0 +1,114 @@
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+div.title{
+    background-color: black;
+    color: white;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    font-family: fantasy; 
+    margin-bottom: 20px;
+    font-size: 90px;
+
+}
+div.gazoubig{
+    background-color: beige;
+    width: 1000px;
+    height: 200px;
+    margin-bottom: 20px; 
+}
+div.body1{
+    font-size: 0;
+    width: 1000px;
+    height: 300px;
+    background-color:white; 
+    margin-bottom: 20px;
+}
+div.gazou1{
+    vertical-align: top;
+    display:inline-block;
+    width: 490px;
+    height: 300px;
+    background-color: aquamarine;
+    margin-right: 10px;
+}
+div.bunnsyou1{
+    vertical-align: top;
+    display:inline-block;
+    width: 490px;
+    height: 300px;
+    background-color: bisque;
+    margin-left: 10px;
+}
+div.body2{
+    font-size: 0;
+    width: 1000px;
+    height: 300px;
+    background-color:white; 
+    margin-bottom: 20px;
+}
+div.gazou2{
+    vertical-align: top;
+    display:inline-block;
+    width: 490px;
+    height: 300px;
+    background-color: bisque;
+    margin-left: 10px;
+}
+div.bunnsyou2{
+    vertical-align: top;
+    display:inline-block;
+    width: 490px;
+    height: 300px;
+    background-color: aquamarine;
+    margin-right: 10px;
+}
+div.page{
+    font-size: 0;
+     width: 1000px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+div.page1{
+    vertical-align: top;
+    display: inline-block;
+    background-color:azure;
+    width: 327px;
+    height: 100px;
+    border : 3px solid blue;
+    font-size: 30px;
+      
+}
+div.page2{
+    vertical-align: top;
+    display: inline-block;
+    background-color:azure;
+    width: 327px;
+    height: 100px;
+    border : 3px solid blue;
+    font-size: 30px;
+     
+}
+div.page3{
+    vertical-align: top;
+    display: inline-block;
+    background-color:azure;
+    width: 327px;
+    height: 100px;
+    border : 3px solid blue;
+    font-size: 30px;
+    
+}
+
+
+div.futter{
+    width: 1000px;
+    height: 100px;
+    background-color:azure;
+}
+
